@@ -32,3 +32,5 @@ Arabic handwritten recognition using Convolutional Neural Networks (CNNs) is a c
 
 
 In summary, Arabic handwritten recognition using CNNs involves a systematic approach from data collection and preprocessing to model training and application deployment, continuing to evolve with advancements in deep learning and computer vision.
+
+For more information, check the dataset on [Kaggle](https://www.kaggle.com/datasets/ahmedbesbes/arabic-handwritten-characters-recognition).
